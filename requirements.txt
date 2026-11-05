@@ -1,0 +1,10 @@
+streamlit
+pydantic
+pydantic-ai
+langchain
+langgraph
+openai
+anthropic
+tree-sitter
+python-dotenv
+pytest
